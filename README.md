@@ -1,8 +1,3 @@
----
-title: "Getting and Cleaning Data Course Project Assignment"
-output: html_document
----
-
 ## About this repository
 
 This repository contains the following files:
